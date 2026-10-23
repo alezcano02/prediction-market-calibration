@@ -1,0 +1,9 @@
+duckdb
+pandas
+pyarrow
+numpy
+requests
+matplotlib
+seaborn
+statsmodels
+jupyter
